@@ -4,4 +4,5 @@ out/
 *.class
 target/
 .DS_Store
-Thumbs.db
+Thumbs.db.idea/
+*.iml
